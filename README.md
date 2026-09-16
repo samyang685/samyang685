@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Samuel Yang
 
-<!--
-**samyang685/samyang685** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT student at UCF, focusing on cybersecurity, graduating May 2027.
 
-Here are some ideas to get you started:
+I work as a Laboratory Assistant II at AdventHealth Orlando, where I handle patient data under HIPAA every day and deal with data integrity issues on a regular basis. That's honestly what got me interested in cybersecurity and GRC in the first place. Working around sensitive data for months made me care about protecting it, not just read about why it matters.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on right now
+
+- Studying for CompTIA Security+ (SY0-701)
+- Building a home lab with Kali Linux and Metasploitable2, working through TryHackMe rooms
+- Putting together a mock GRC gap assessment based on HIPAA/NIST CSF, using what I actually know from working in healthcare compliance
+- Writing a Python script to catch data integrity anomalies in logs
+
+I'll post writeups here once each one is actually done, not before.
+
+## Also have
+
+- AWS Academy Graduate, Cloud Security Foundations
+- Google Cybersecurity Professional Certificate
+- B.S. Information Technology, UCF (2027)
+
+## Contact
+
+[LinkedIn](https://linkedin.com/in/samuelyang1016)
