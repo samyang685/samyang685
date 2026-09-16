@@ -2,7 +2,7 @@
 
 I'm an IT student at UCF, focusing on cybersecurity, graduating May 2027.
 
-I work as a Laboratory Assistant II at AdventHealth Orlando, where I handle patient data under HIPAA every day and deal with data integrity issues on a regular basis. That's honestly what got me interested in cybersecurity and GRC in the first place. Working around sensitive data for months made me care about protecting it, not just read about why it matters.
+I work as a Laboratory Assistant II at AdventHealth Orlando, where I handle patient data under HIPAA and deal with data integrity issues almost every shift. That's honestly what got me interested in cybersecurity and GRC. Working around sensitive data for months made me actually want to protect it, not just check a box on a compliance form.
 
 ## What I'm working on right now
 
