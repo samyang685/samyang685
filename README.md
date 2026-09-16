@@ -17,7 +17,6 @@ I'll post writeups here once each one is actually done
 
 - AWS Academy Graduate, Cloud Security Foundations
 - Google Cybersecurity Professional Certificate
-- B.S. Information Technology, UCF (2027)
 
 ## Contact
 
