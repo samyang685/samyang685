@@ -11,7 +11,7 @@ I work as a Laboratory Assistant II at AdventHealth Orlando, where I handle pati
 - Putting together a mock GRC gap assessment based on HIPAA/NIST CSF, using what I actually know from working in healthcare compliance
 - Writing a Python script to catch data integrity anomalies in logs
 
-I'll post writeups here once each one is actually done, not before.
+I'll post writeups here once each one is actually done
 
 ## Also have
 
